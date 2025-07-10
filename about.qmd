@@ -1,0 +1,12 @@
+---
+title: "关于我"
+---
+
+我叫张三，目前是一名在校学生/在职工程师...
+
+### 教育背景
+- **XX大学** | 计算机科学学士 (2020 - 2024)
+
+### 联系方式
+- **邮箱**: your.email@example.com
+- **GitHub**: [github.com/your-github-username](https://github.com/your-github-username)

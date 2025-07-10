@@ -1,0 +1,24 @@
+---
+title: "Jiayang Gu<br>顾嘉扬"
+subtitle: "Seien Sie Ihr eigener Weltmeister."
+image: myself.jpg
+toc: false 
+about: 
+  template: jolla 
+  image-shape: round
+  image-width: 20em
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/jkdxg8837
+    - icon: envelope
+      text: Email
+      href: jiayang:jiayang-gu.gu@warwick.ac.uk
+format:
+  html:
+    link-external-newwindow: true
+---
+
+I am a PhD student in the Department of Computer Science at the University of Warwick, advised by Prof. Hongkai Wen. My current research interests focus on the transfer learning of diffusion models.
+
+I received my Master's degree from the University of Electronic Science and Technology of China (UESTC) and my Bachelor's degree from Zhejiang University of Technology (ZJUT).

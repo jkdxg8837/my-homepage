@@ -1,0 +1,32 @@
+{
+  "index.qmd": {
+    "index.html": "008658a9"
+  },
+  "blog.qmd": {
+    "blog.html": "a926432f"
+  },
+  "projects.qmd": {
+    "projects.html": "fd1cc78f"
+  },
+  "about.qmd": {
+    "about.html": "c2f58e77"
+  },
+  "posts/first-post/index.qmd": {
+    "index.html": "ac639426"
+  },
+  "teaching.qmd": {
+    "teaching.html": "6a063d48"
+  },
+  "cv.qmd": {
+    "cv.html": "35a9e321"
+  },
+  "blog/first-post/index.qmd": {
+    "index.html": "5b0e9854"
+  },
+  "research.qmd": {
+    "research.html": "dbbdb223"
+  },
+  "blog/index.qmd": {
+    "index.html": "731cd395"
+  }
+}

@@ -1,0 +1,35 @@
+---
+title: "Publications"
+---
+
+### 2025
+**Debiased Orthogonal Boundary-driven Efficient Noise Mitigation**
+<br>
+Hao Li<sup>†</sup>, Jiayang Gu<sup>†</sup>, Jingkuan Song, An Zhang, Lianli Gao.
+*ArXiv Preprint, 2025.*
+<br>
+[ [PDF](https://openreview.net/forum?id=kLOoc8a3bc) ] [ [Code](#) ]
+
+---
+
+### 2024
+**RRE: A Relevance Relation Extraction Framework for Cross-domain Recommender System at Alipay**
+<br>
+Jiayang Gu<sup>†</sup>, Xovee Xu<sup>†</sup>, Yulu Tian, Yurun Hu, Jiadong Huang, Wenliang Zhong, Fan Zhou, Lianli Gao.
+ICME 2024. Oral.
+<span style="color: red;">Best Paper Candidate.</span>
+<br>
+[ [PDF](https://ieeexplore.ieee.org/document/10687762) ] [ [Code](https://github.com/jkdxg8837/Relevance-Relation-Extraction) ] [ [Slides](#) ]
+
+---
+
+### 2023
+**End-to-end Image Captioning via Visual Region Aggregation and Dual-level Collaboration**
+<br>
+Jingkuan Song, Pengpeng Zeng, **Jiayang Gu**, Jinkuan Zhu, Lianli Gao.
+*International Journal of Software & Informatics*, 13(2), 2023.
+<br>
+[ [PDF](#) ] [ [Code](#) ]
+<div style="font-size: medium; float: right; margin-left: 10px;">
+    † Equal contribution.
+</div>
