@@ -1,33 +1,5 @@
 [
   {
-    "objectID": "posts/first-post/index.html",
-    "href": "posts/first-post/index.html",
-    "title": "我的第一篇博客",
-    "section": "",
-    "text": "这是我的第一篇博客文章！\n我正在学习如何使用 Quarto 搭建个人网站，感觉非常棒。"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "我的项目",
-    "section": "",
-    "text": "这里是我参与和完成的一些项目，点击标题可以了解更多详情。\n\n项目一：基于 Python 的电影推荐系统\n\n技术栈: Python, Pandas, Scikit-learn\n描述: 实现了一个简单的协同过滤推荐算法…\n\n\n\n项目二：城市空气质量可视化\n\n技术栈: R, Shiny, ggplot2\n描述: 创建了一个交互式仪表盘，用于展示…"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Jiayang Gu顾嘉扬",
-    "section": "",
-    "text": "I am a PhD student in the Department of Computer Science at the University of Warwick, advised by Prof. Hongkai Wen. My current research interests focus on the transfer learning of diffusion models.\nI received my Master’s degree from the University of Electronic Science and Technology of China (UESTC) and my Bachelor’s degree from Zhejiang University of Technology (ZJUT)."
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "我的博客",
-    "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n我的第一篇博客\n\n\n\n技术\n\nQuarto\n\n\n\n\n\n\n\n\n\nJul 10, 2025\n\n\n张三\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "关于我",
@@ -42,15 +14,29 @@
     "text": "这里是我参与和完成的一些项目，点击标题可以了解更多详情。\n\n项目一：基于 Python 的电影推荐系统\n\n技术栈: Python, Pandas, Scikit-learn\n描述: 实现了一个简单的协同过滤推荐算法…\n\n\n\n项目二：城市空气质量可视化\n\n技术栈: R, Shiny, ggplot2\n描述: 创建了一个交互式仪表盘，用于展示…"
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "我的项目",
-    "section": "",
-    "text": "这里是我参与和完成的一些项目，点击标题可以了解更多详情。\n\n项目一：基于 Python 的电影推荐系统\n\n技术栈: Python, Pandas, Scikit-learn\n描述: 实现了一个简单的协同过滤推荐算法…\n\n\n\n项目二：城市空气质量可视化\n\n技术栈: R, Shiny, ggplot2\n描述: 创建了一个交互式仪表盘，用于展示…"
-  },
-  {
     "objectID": "blog/first-post/index.html",
     "href": "blog/first-post/index.html",
+    "title": "我的第一篇博客",
+    "section": "",
+    "text": "这是我的第一篇博客文章！\n我正在学习如何使用 Quarto 搭建个人网站，感觉非常棒。"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "我的博客",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jiayang Gu顾嘉扬",
+    "section": "",
+    "text": "I am a PhD student in the Department of Computer Science at the University of Warwick, advised by Prof. Hongkai Wen. My current research interests focus on the transfer learning of diffusion models.\nI received my Master’s degree from the University of Electronic Science and Technology of China (UESTC) and my Bachelor’s degree from Zhejiang University of Technology (ZJUT)."
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
     "title": "我的第一篇博客",
     "section": "",
     "text": "这是我的第一篇博客文章！\n我正在学习如何使用 Quarto 搭建个人网站，感觉非常棒。"
@@ -63,17 +49,10 @@
     "text": "2025\nDebiased Orthogonal Boundary-driven Efficient Noise Mitigation  Hao Li†, Jiayang Gu†, Jingkuan Song, An Zhang, Lianli Gao. ArXiv Preprint, 2025.  [ PDF ] [ Code ]\n\n\n\n2024\nRRE: A Relevance Relation Extraction Framework for Cross-domain Recommender System at Alipay  Jiayang Gu†, Xovee Xu†, Yulu Tian, Yurun Hu, Jiadong Huang, Wenliang Zhong, Fan Zhou, Lianli Gao. ICME 2024. Oral. Best Paper Candidate.  [ PDF ] [ Code ] [ Slides ]\n\n\n\n2023\nEnd-to-end Image Captioning via Visual Region Aggregation and Dual-level Collaboration  Jingkuan Song, Pengpeng Zeng, Jiayang Gu, Jinkuan Zhu, Lianli Gao. International Journal of Software & Informatics, 13(2), 2023.  [ PDF ] [ Code ]\n\n† Equal contribution."
   },
   {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "我的第一篇博客",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "我的项目",
     "section": "",
-    "text": "这是我的第一篇博客文章！\n我正在学习如何使用 Quarto 搭建个人网站，感觉非常棒。"
-  },
-  {
-    "objectID": "research.html#equal-contribution.",
-    "href": "research.html#equal-contribution.",
-    "title": "Publications",
-    "section": "",
-    "text": "Debiased Orthogonal Boundary-driven Efficient Noise Mitigation  Hao Li, Jiayang Gu, Jingkuan Song, An Zhang, Lianli Gao. ArXiv Preprint, 2025.  [ PDF ] [ Code ]\n\n\n\n\n\nRRE: A Relevance Relation Extraction Framework for Cross-domain Recommender System at Alipay  Jiayang Gu†, Xovee Xu†, Yulu Tian, Yurun Hu, Jiadong Huang, Wenliang Zhong, Fan Zhou, Lianli Gao.\nJiayang Gu, Xovee Xu, Yulu Tian, Yurun Hu, Jiadong Huang, Wenliang Zhong, Fan Zhou, Lianli Gao. ICME 2024. Oral. Best Paper Candidate.  [ PDF ] [ Code ] [ Slides ]\n\n\n\n\n\nEnd-to-end Image Captioning via Visual Region Aggregation and Dual-level Collaboration  Jingkuan Song, Pengpeng Zeng, Jiayang Gu, Jinkuan Zhu, Lianli Gao. International Journal of Software & Informatics, 13(2), 2023.  [ PDF ] [ Code ]"
+    "text": "这里是我参与和完成的一些项目，点击标题可以了解更多详情。\n\n项目一：基于 Python 的电影推荐系统\n\n技术栈: Python, Pandas, Scikit-learn\n描述: 实现了一个简单的协同过滤推荐算法…\n\n\n\n项目二：城市空气质量可视化\n\n技术栈: R, Shiny, ggplot2\n描述: 创建了一个交互式仪表盘，用于展示…"
   }
 ]

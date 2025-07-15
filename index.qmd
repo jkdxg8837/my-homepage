@@ -1,6 +1,5 @@
 ---
 title: "Jiayang Gu<br>顾嘉扬"
-subtitle: "Seien Sie Ihr eigener Weltmeister."
 image: myself.jpg
 toc: false 
 about: 

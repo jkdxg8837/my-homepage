@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Jiayang Gu"
+  title: "Jiayang Gu's personal website"
   navbar:
     title: "jiayang<br>gu"
     right:
