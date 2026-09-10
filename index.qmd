@@ -12,7 +12,7 @@ about:
       href: https://github.com/jkdxg8837
     - icon: envelope
       text: Email
-      href: jiayang:jiayang-gu.gu@warwick.ac.uk
+      href: mailto:jiayang-gu.gu@warwick.ac.uk
 format:
   html:
     link-external-newwindow: true
